@@ -1,2 +1,2 @@
 # tihall
-A distributed register center using DB as backend
+A distributed register center using TiDB as backend
